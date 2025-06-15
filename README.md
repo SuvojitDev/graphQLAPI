@@ -14,7 +14,7 @@
 Create a `.env` file in your root directory:
 ```json
 SECRET_KEY=your_secret_key
-DB_URI=mongodb+srv://
+DB_URI=mongodb+srv://yourUsername:yourPass@yourCluster.example/test
 PORT=4000
 ```
 
